@@ -30,9 +30,20 @@ li {
     text-align: center;
     padding: 30px; }
   
-  .doctor-message .inner-lay .numb h3 {
+  .doctor-message .inner-lay .numb  h3:hover {
     font-size: 42px;
     padding-bottom: 10px;
     border-bottom: 1px solid #111827;
-    margin-bottom: 20px;
+    margin-bottom: 2rem;
     color: black }
+  
+
+    .kkk{
+      width:1210;
+      height:auto;
+      background-color: #ddd6fe ;
+      border-radius: 10px;
+      padding:10px;
+     
+  }
+  
