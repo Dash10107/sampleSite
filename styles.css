@@ -1,0 +1,38 @@
+.doctor-message .inner-lay .numb {
+    text-align: center;
+    padding: 30px;
+}
+li {
+    display: inline-block;
+    list-style-type: none;
+  }
+
+  .doctor-message {
+    background-color: #ddd6fe;
+    background-attachment: fixed;
+    background-size: cover; }
+    .doctor-message .session-title h2 {
+        text-align: center;
+      color: black;
+      
+    
+    }
+  
+  .doctor-message .inner-lay {
+    
+    padding: 50px;
+    color: rgb(66, 60, 60); }
+  
+  @media screen and (max-width: 940px) {
+    .doctor-message .inner-lay {
+      padding: 30px 10px; } }
+  .doctor-message .inner-lay .numb {
+    text-align: center;
+    padding: 30px; }
+  
+  .doctor-message .inner-lay .numb h3 {
+    font-size: 42px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #111827;
+    margin-bottom: 20px;
+    color: black }
